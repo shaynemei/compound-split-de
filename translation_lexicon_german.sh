@@ -1,0 +1,1 @@
+python3 translation_lexicon_german.py
