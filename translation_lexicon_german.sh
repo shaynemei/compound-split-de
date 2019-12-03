@@ -1,1 +1,1 @@
-python3 translation_lexicon_german.py
+python3 script/translation_lexicon_german.py

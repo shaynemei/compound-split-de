@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 translation_lexicon.py
+python3 script/translation_lexicon.py

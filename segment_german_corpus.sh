@@ -1,1 +1,1 @@
-python3 segment_german_corpus.py
+python3 script/segment_german_corpus.py
